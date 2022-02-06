@@ -1,1 +1,14 @@
+school:
+- name: DPS
+  principal: someone
+  Students: 
+  - rno: 12
+  - name : "ruhika"
+  - age: 19
+
+
+# or Studnets: 
+    #  - rno: 10
+    #     name: "ruhika"
+    #     age : 19
 
