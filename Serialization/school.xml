@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" >
+<School name="ABC" principal= "Ruhika" >
+   <Students>
+       <Student>
+           <rno>50</rno>
+           <name> "Ruhika"</name>
+           <marks>100</marks>
+       <Student>
+
+   <Students>
+
+</School>
