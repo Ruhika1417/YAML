@@ -1,0 +1,22 @@
+{
+    "School": [  
+        {
+        "name": "abc",
+        "principal": "malkani",
+         "Students": [
+            {
+             "rollno" : 1 ,
+             "name" : "Ruhika",
+            "marks": 390
+            }
+
+        ]
+
+
+        }  
+    ]
+}
+
+below are some comments. json doesnt support it.
+[] array list
+{ }properties
